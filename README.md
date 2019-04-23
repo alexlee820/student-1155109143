@@ -2,6 +2,10 @@
 I am *Wong Tsz Ching*.
 Welcome~
 
+1. Go to die
+2. Go to die
+3. Go to die
+
 - [x] Diploma
 - [ ] Bachelor Degree
 
